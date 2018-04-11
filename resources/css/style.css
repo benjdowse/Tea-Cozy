@@ -1,0 +1,44 @@
+body {
+	font-family: helvetica;
+	font-size: 22px;
+	color: seashell;
+	background-color: black;
+	opacity: 0.9;
+	text-align: center;
+	
+}
+
+a {
+	color: seashell;
+	opacity: 0.9;
+}
+
+/* Header */
+
+header {
+	position: fixed;
+	display: flex;
+	border-bottom: 1px solid seashell;
+	width: 100%;
+	height: 69px;	
+	position: fixed;
+	align-items: center;
+}
+
+.logo {
+	display: flex;
+	margin-left: 10px;
+	flex-grow: 1;
+}
+
+nav span {
+	display: inline-block;
+	padding: 10px;
+}
+
+nav {
+	margin-right: 20px;
+}
+
+/* Our Mission */
+
