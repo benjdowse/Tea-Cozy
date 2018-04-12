@@ -46,6 +46,7 @@ header {
 
 header img {
 	padding-left: 10px;
+	height: 50px;
 }
 
 nav span {
@@ -75,4 +76,26 @@ nav {
 	margin: auto;
 	width: 100%;
 	background-color: black;
+}
+
+/* Tea of the Month */
+
+#tea {
+	margin-top: 75px;
+	width: 1000px;
+	margin: auto;
+}
+
+.teas {
+	margin: 10px;
+}
+
+.teas img {
+	width: 300px;
+	display: block;
+	padding-bottom: 10px;
+}
+
+.teas span {
+	font-weight: bold;
 }
