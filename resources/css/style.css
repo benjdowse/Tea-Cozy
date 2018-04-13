@@ -8,10 +8,6 @@ body {
 	margin: 0;
 }
 
-div {
-/* 	border: 1px solid red; */
-}
-
 a {
 	color: seashell;
 	opacity: 0.9;
@@ -125,4 +121,17 @@ nav {
 #locations .flex-container {
 	margin: auto;
 	width: 100%;
+}
+
+/* Contact */
+
+.contact {
+	height: 200px;
+}
+
+/* Footer */
+
+footer {
+	text-align: left;
+	padding-left: 20px;
 }
